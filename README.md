@@ -1,7 +1,6 @@
-# Ilmatar Bot
+# The Librarian
 
-Ilmatar is a simple discord bot.
-This is a public version of a private bot, which has more functions that are being added here as well.
+The Librarian is a simple discord bot.
 
 ## Installation & Usage
 
